@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Floria</string>
+
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="lorem_ipsum">lorem ipsum</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="genero">Genero</string>
+    <string name="tribu">Tribu</string>
+    <string name="subfamilia">SubFamilia</string>
+    <string name="familia">Familia</string>
+    <string name="orden">Orden</string>
+    <string name="subclase">SubClase</string>
+    <string name="clase">Clase</string>
+    <string name="division">Division</string>
+    <string name="reino">Reino</string>
+    <string name="nombre">Nombre</string>
+    <string name="especie">Especie</string>
+    <string name="title_detalles">Detalles</string>
+    <string name="nueva_foto">Nueva Foto</string>
+    <string name="descripcion_photo">Descripcion...</string>
+    <string name="publicar_foto">Publicar Foto</string>
+
+    <string name="nickHTML">
+        <annotation font="open_sans_bold">@Nickname</annotation>
+        <annotation font="open_sans">@Description</annotation>
+    </string>
+
+</resources>

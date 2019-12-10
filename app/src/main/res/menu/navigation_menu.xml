@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/iHome"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/iAbout"
+            android:title="About"/>
+
+        <item
+            android:id="@+id/iContacts"
+            android:title="Contacts"/>
+
+        <item
+            android:id="@+id/iMail"
+            android:title="Mail"/>
+
+    </group>
+
+    <item android:title="Advance Option">
+
+        <menu>
+
+            <item
+                android:id="@+id/iSent"
+                android:title="Sent"/>
+
+            <item
+                android:id="@+id/iDelete"
+                android:title="Delete"/>
+
+            <item
+                android:id="@+id/iPost"
+                android:title="Post"/>
+
+
+        </menu>
+
+    </item>
+
+</menu>

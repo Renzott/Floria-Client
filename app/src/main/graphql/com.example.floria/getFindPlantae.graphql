@@ -1,0 +1,20 @@
+query getFindPlantae($path:String!,$user:String!){
+
+  findPlantae(path:$path,user:$user){
+    id
+    nombre
+    reino
+    division
+    clase
+    subclase
+    orden
+    familia
+    subfamilia
+    tribu
+    genero
+    especie
+    descripcion
+
+  }
+
+}
